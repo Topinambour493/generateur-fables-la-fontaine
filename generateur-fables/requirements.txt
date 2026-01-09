@@ -1,0 +1,19 @@
+# Scraping
+requests
+beautifulsoup4
+lxml
+
+# Core
+transformers>=4.38.0
+datasets>=2.18.0
+
+peft>=0.10.0
+accelerate>=0.27.0
+
+# Quantization
+bitsandbytes>=0.43.0
+
+# Utils
+sentencepiece
+tqdm
+numpy

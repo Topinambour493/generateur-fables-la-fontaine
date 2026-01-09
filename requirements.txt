@@ -1,9 +1,0 @@
-requests
-beautifulsoup4
-lxml
-torch
-transformers
-datasets
-peft
-accelerate
-bitsandbytes
